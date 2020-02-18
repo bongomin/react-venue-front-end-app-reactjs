@@ -4,6 +4,7 @@ import './resources/styles.css';
 import Featured from './components/Featured';
 import VenueInfo from './components/VENUEINFO'
 import Highlights from './components/HighLights'
+import Pricing from './components/Pricing/index'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Featured />
       <VenueInfo />
       <Highlights />
+      <Pricing />
 
 
     </div>
